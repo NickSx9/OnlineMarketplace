@@ -1,0 +1,197 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\OnlineMarketplace\\OnlineMarketplace\\OnlineMarketplace.csproj": {}
+  },
+  "projects": {
+    "D:\\OnlineMarketplace\\omp.Authentication.Facade\\omp.Authentication.Facade.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OnlineMarketplace\\omp.Authentication.Facade\\omp.Authentication.Facade.csproj",
+        "projectName": "omp.Authentication.Facade",
+        "projectPath": "D:\\OnlineMarketplace\\omp.Authentication.Facade\\omp.Authentication.Facade.csproj",
+        "packagesPath": "C:\\Users\\heath\\.nuget\\packages\\",
+        "outputPath": "D:\\OnlineMarketplace\\omp.Authentication.Facade\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\heath\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\OnlineMarketplace\\omp.DataAccess.Core\\omp.DataAccess.Core.csproj": {
+                "projectPath": "D:\\OnlineMarketplace\\omp.DataAccess.Core\\omp.DataAccess.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OnlineMarketplace\\omp.DataAccess.Core\\omp.DataAccess.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OnlineMarketplace\\omp.DataAccess.Core\\omp.DataAccess.Core.csproj",
+        "projectName": "omp.DataAccess.Core",
+        "projectPath": "D:\\OnlineMarketplace\\omp.DataAccess.Core\\omp.DataAccess.Core.csproj",
+        "packagesPath": "C:\\Users\\heath\\.nuget\\packages\\",
+        "outputPath": "D:\\OnlineMarketplace\\omp.DataAccess.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\heath\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OnlineMarketplace\\OnlineMarketplace\\OnlineMarketplace.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OnlineMarketplace\\OnlineMarketplace\\OnlineMarketplace.csproj",
+        "projectName": "OnlineMarketplace",
+        "projectPath": "D:\\OnlineMarketplace\\OnlineMarketplace\\OnlineMarketplace.csproj",
+        "packagesPath": "C:\\Users\\heath\\.nuget\\packages\\",
+        "outputPath": "D:\\OnlineMarketplace\\OnlineMarketplace\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\heath\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\OnlineMarketplace\\omp.Authentication.Facade\\omp.Authentication.Facade.csproj": {
+                "projectPath": "D:\\OnlineMarketplace\\omp.Authentication.Facade\\omp.Authentication.Facade.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.SpaServices.Extensions": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,186 @@
+.company_logo {
+    height: 100px;
+}
+
+.img-home-main {
+    height: 160px;
+}
+.img-login-modal-mobile{
+    height: 100px;
+    width: 125px;
+    display: block;
+    float: right;
+    margin-right: 5%;
+}
+
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.page-title {
+    width: 100%;
+}
+.page-title h2 {
+    text-align: center;
+}
+
+.box-container {
+    border: 1.5px solid gray;
+    width: 50%;
+    height: max-content;
+    margin-left: 25%;
+    padding: 50px;
+    margin-bottom: 5px;
+    position: relative;
+}
+.box-container-mobile {
+    border: 1.5px solid gray;
+    height: max-content;
+    padding: 50px;
+    margin-bottom: 5px;
+    position: relative;
+}
+
+.radio-label-spacing input{
+    margin-left: 10px;
+    margin-top: 3px;
+}
+
+.text-box-spacing input{
+    margin-left: 10px;
+    margin-top: 3px;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+.user-details h3 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.user-details h4 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.sub-table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px; 
+}
+
+.sub-table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    background-color: #f2f2f2;
+} 
+.sub-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.submit-registration {
+    border-radius: 4px;
+    padding: 8px 10px;
+    background-color: #f2f2f2;
+    position: absolute; /* specify that the button is an absolutely positioned element */
+    right: 0;
+    margin-bottom: 16px;
+    margin-right: 5px;
+}
+button:active {
+    background-color: green; /* color when the button is clicked */
+    color: white;
+}
+
+.main-container {
+    width: 100%;
+    height: max-content;
+}
+
+.sub-radio {
+    margin-top: 25px;
+}
+
+.radio-label-spacing input{
+    color: #f2f2f2;
+    height: 20px;
+    width: 20px;
+    margin-top: 3px;
+}
+
+.radio-label-spacing label{
+ font-size: 25px;
+}
+
+.customer-submit {
+    margin-top: 16px;
+}
+
+.modal-overlay {
+    position: fixed; /* position the overlay on top of the page */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* make the overlay semi-transparent */
+    z-index: 10; /* make the overlay appear on top of other elements */
+  }
+  .modal-content {
+    /* center the modal in the center of the screen */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px; /* specify the width of the modal */
+    height: 350px; /* specify the height of the modal */
+    background-color: white; /* specify the background color of the modal */
+    border-radius: 10px; /* round the corners of the modal */
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+  }
+  .modal-content h2, form {
+    margin-left: 30px;
+  }
+  .modal-content input {
+    width: 80%;
+    margin: 10px;
+  }
+ 
+
+  .login-back-btn {
+    width: 70px;
+    border-radius: 4px;
+    padding: 8px 10px;
+    background-color: #f2f2f2;
+  }
+
+  .login-btn {
+    display: block;
+    width: 70px;
+    border-radius: 4px;
+    padding: 8px 10px;
+    background-color: #f2f2f2;
+    float: right;
+    margin-right: 15%;
+  }
+
+  .login-error-text {
+    color: red;
+  }
+
+  .login-title h2 {
+    display: block;
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 8%;
+  }
+
+  .content-main-home {
+
+  }

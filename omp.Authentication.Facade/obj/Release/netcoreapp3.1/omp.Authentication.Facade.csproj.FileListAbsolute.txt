@@ -1,0 +1,13 @@
+H:\Projects\OnlineMarketplace\OnlineMarketplace\omp.Authentication.Facade\bin\Release\netcoreapp3.1\omp.Authentication.Facade.deps.json
+H:\Projects\OnlineMarketplace\OnlineMarketplace\omp.Authentication.Facade\bin\Release\netcoreapp3.1\omp.Authentication.Facade.dll
+H:\Projects\OnlineMarketplace\OnlineMarketplace\omp.Authentication.Facade\bin\Release\netcoreapp3.1\omp.Authentication.Facade.pdb
+H:\Projects\OnlineMarketplace\OnlineMarketplace\omp.Authentication.Facade\bin\Release\netcoreapp3.1\omp.DataAccess.Core.dll
+H:\Projects\OnlineMarketplace\OnlineMarketplace\omp.Authentication.Facade\bin\Release\netcoreapp3.1\omp.DataAccess.Core.pdb
+H:\Projects\OnlineMarketplace\OnlineMarketplace\omp.Authentication.Facade\obj\Release\netcoreapp3.1\omp.Authentication.Facade.csproj.AssemblyReference.cache
+H:\Projects\OnlineMarketplace\OnlineMarketplace\omp.Authentication.Facade\obj\Release\netcoreapp3.1\omp.Authentication.Facade.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projects\OnlineMarketplace\OnlineMarketplace\omp.Authentication.Facade\obj\Release\netcoreapp3.1\omp.Authentication.Facade.AssemblyInfoInputs.cache
+H:\Projects\OnlineMarketplace\OnlineMarketplace\omp.Authentication.Facade\obj\Release\netcoreapp3.1\omp.Authentication.Facade.AssemblyInfo.cs
+H:\Projects\OnlineMarketplace\OnlineMarketplace\omp.Authentication.Facade\obj\Release\netcoreapp3.1\omp.Authentication.Facade.csproj.CoreCompileInputs.cache
+H:\Projects\OnlineMarketplace\OnlineMarketplace\omp.Authentication.Facade\obj\Release\netcoreapp3.1\omp.Authentication.Facade.csproj.CopyComplete
+H:\Projects\OnlineMarketplace\OnlineMarketplace\omp.Authentication.Facade\obj\Release\netcoreapp3.1\omp.Authentication.Facade.dll
+H:\Projects\OnlineMarketplace\OnlineMarketplace\omp.Authentication.Facade\obj\Release\netcoreapp3.1\omp.Authentication.Facade.pdb

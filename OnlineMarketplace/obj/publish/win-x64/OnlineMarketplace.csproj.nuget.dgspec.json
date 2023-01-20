@@ -1,0 +1,242 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\Projects\\OnlineMarketplace\\OnlineMarketplace\\OnlineMarketplace\\OnlineMarketplace.csproj": {}
+  },
+  "projects": {
+    "H:\\Projects\\OnlineMarketplace\\OnlineMarketplace\\omp.Authentication.Facade\\omp.Authentication.Facade.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Projects\\OnlineMarketplace\\OnlineMarketplace\\omp.Authentication.Facade\\omp.Authentication.Facade.csproj",
+        "projectName": "omp.Authentication.Facade",
+        "projectPath": "H:\\Projects\\OnlineMarketplace\\OnlineMarketplace\\omp.Authentication.Facade\\omp.Authentication.Facade.csproj",
+        "packagesPath": "C:\\Users\\NikiH\\.nuget\\packages\\",
+        "outputPath": "H:\\Projects\\OnlineMarketplace\\OnlineMarketplace\\omp.Authentication.Facade\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NikiH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "H:\\Projects\\OnlineMarketplace\\OnlineMarketplace\\omp.DataAccess.Core\\omp.DataAccess.Core.csproj": {
+                "projectPath": "H:\\Projects\\OnlineMarketplace\\OnlineMarketplace\\omp.DataAccess.Core\\omp.DataAccess.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "H:\\Projects\\OnlineMarketplace\\OnlineMarketplace\\omp.DataAccess.Core\\omp.DataAccess.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Projects\\OnlineMarketplace\\OnlineMarketplace\\omp.DataAccess.Core\\omp.DataAccess.Core.csproj",
+        "projectName": "omp.DataAccess.Core",
+        "projectPath": "H:\\Projects\\OnlineMarketplace\\OnlineMarketplace\\omp.DataAccess.Core\\omp.DataAccess.Core.csproj",
+        "packagesPath": "C:\\Users\\NikiH\\.nuget\\packages\\",
+        "outputPath": "H:\\Projects\\OnlineMarketplace\\OnlineMarketplace\\omp.DataAccess.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NikiH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "H:\\Projects\\OnlineMarketplace\\OnlineMarketplace\\OnlineMarketplace\\OnlineMarketplace.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Projects\\OnlineMarketplace\\OnlineMarketplace\\OnlineMarketplace\\OnlineMarketplace.csproj",
+        "projectName": "OnlineMarketplace",
+        "projectPath": "H:\\Projects\\OnlineMarketplace\\OnlineMarketplace\\OnlineMarketplace\\OnlineMarketplace.csproj",
+        "packagesPath": "C:\\Users\\NikiH\\.nuget\\packages\\",
+        "outputPath": "H:\\Projects\\OnlineMarketplace\\OnlineMarketplace\\OnlineMarketplace\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NikiH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "H:\\Projects\\OnlineMarketplace\\OnlineMarketplace\\omp.Authentication.Facade\\omp.Authentication.Facade.csproj": {
+                "projectPath": "H:\\Projects\\OnlineMarketplace\\OnlineMarketplace\\omp.Authentication.Facade\\omp.Authentication.Facade.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.SpaServices.Extensions": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.30, 3.1.30]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xTe/wz2v0VorFWOXLvHcDvJWFG8Aaf3ZSfGl4+TMlLY=",
+  "Source": "omp.stream.server",
+  "BasePath": "_content/omp.stream.server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

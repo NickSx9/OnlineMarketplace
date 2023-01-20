@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = omp.stream.server
+build_property.ProjectDir = H:\Projects\OnlineMarketplace\OnlineMarketplace\WebSockets\omp.stream.server\

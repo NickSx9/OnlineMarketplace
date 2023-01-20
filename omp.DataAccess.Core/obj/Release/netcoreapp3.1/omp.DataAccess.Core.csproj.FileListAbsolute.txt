@@ -1,0 +1,10 @@
+H:\Projects\OnlineMarketplace\OnlineMarketplace\omp.DataAccess.Core\bin\Release\netcoreapp3.1\omp.DataAccess.Core.deps.json
+H:\Projects\OnlineMarketplace\OnlineMarketplace\omp.DataAccess.Core\bin\Release\netcoreapp3.1\omp.DataAccess.Core.dll
+H:\Projects\OnlineMarketplace\OnlineMarketplace\omp.DataAccess.Core\bin\Release\netcoreapp3.1\omp.DataAccess.Core.pdb
+H:\Projects\OnlineMarketplace\OnlineMarketplace\omp.DataAccess.Core\obj\Release\netcoreapp3.1\omp.DataAccess.Core.csproj.AssemblyReference.cache
+H:\Projects\OnlineMarketplace\OnlineMarketplace\omp.DataAccess.Core\obj\Release\netcoreapp3.1\omp.DataAccess.Core.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projects\OnlineMarketplace\OnlineMarketplace\omp.DataAccess.Core\obj\Release\netcoreapp3.1\omp.DataAccess.Core.AssemblyInfoInputs.cache
+H:\Projects\OnlineMarketplace\OnlineMarketplace\omp.DataAccess.Core\obj\Release\netcoreapp3.1\omp.DataAccess.Core.AssemblyInfo.cs
+H:\Projects\OnlineMarketplace\OnlineMarketplace\omp.DataAccess.Core\obj\Release\netcoreapp3.1\omp.DataAccess.Core.csproj.CoreCompileInputs.cache
+H:\Projects\OnlineMarketplace\OnlineMarketplace\omp.DataAccess.Core\obj\Release\netcoreapp3.1\omp.DataAccess.Core.dll
+H:\Projects\OnlineMarketplace\OnlineMarketplace\omp.DataAccess.Core\obj\Release\netcoreapp3.1\omp.DataAccess.Core.pdb
